@@ -1,3 +1,4 @@
 {
-    "DB_CONN_STRING": "mongodb+srv://mitul:z1yd0TP9KkZKlwKr@cluster0.uk33e.mongodb.net/"
+    "DB_CONN_STRING": "mongodb+srv://mitul:z1yd0TP9KkZKlwKr@cluster0.uk33e.mongodb.net/",
+    "JWT_ACCESS_SECRET": "cd07766b60cba89f69ce7d659e59790728dae13907b111cdd590a8187606a192b5555befd40a0cfad90d7ec9eb70a7ffb3178a273a93ad28697b69575e9520ee"
 }
